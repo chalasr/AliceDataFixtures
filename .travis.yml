@@ -13,6 +13,7 @@ php:
 branches:
   only:
     - master
+    - sf5-build
 
 matrix:
   fast_finish: true
